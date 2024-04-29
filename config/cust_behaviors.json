@@ -1,0 +1,10 @@
+[
+	{
+		"code": "ralt",
+		"name": "ralt",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
